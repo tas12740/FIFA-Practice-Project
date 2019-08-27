@@ -1,0 +1,25 @@
+­v5§q
+
+layer-0
+	optimizer
+
+
+kernel
+ 
+	optimizer
+global_step
+\Z
+VARIABLE_VALUEsequential_14/dense_14/kernel)layer-0/kernel/.ATTRIBUTES/VARIABLE_VALUE
+4
+beta1_power
+beta2_powermv	
+_]
+VARIABLE_VALUETFOptimizer_14/iterations0optimizer/global_step/.ATTRIBUTES/VARIABLE_VALUE
+ge
+VARIABLE_VALUEtraining_28/beta1_power:optimizer/optimizer/beta1_power/.ATTRIBUTES/VARIABLE_VALUE
+ge
+VARIABLE_VALUEtraining_28/beta2_power:optimizer/optimizer/beta2_power/.ATTRIBUTES/VARIABLE_VALUE
+ˆ…
+VARIABLE_VALUE"sequential_14/dense_14/kernel/AdamOlayer-0/kernel/.OPTIMIZER_SLOT/optimizer/optimizer/m/.ATTRIBUTES/VARIABLE_VALUE
+Š‡
+VARIABLE_VALUE$sequential_14/dense_14/kernel/Adam_1Olayer-0/kernel/.OPTIMIZER_SLOT/optimizer/optimizer/v/.ATTRIBUTES/VARIABLE_VALUE
